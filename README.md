@@ -123,3 +123,7 @@ License
 
 Suspenders is Copyright © 2008-2013 thoughtbot. It is free software, and may be
 redistributed under the terms specified in the LICENSE file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fknappe/suspenders/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
